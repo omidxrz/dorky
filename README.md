@@ -1,5 +1,5 @@
 # dorky
-dork makers for google, duckduckgo, bing and etc.
+makes some dorks for google, duckduckgo, bing and etc.
 
 ### Usage:
 ```
